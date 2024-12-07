@@ -1,0 +1,52 @@
+.rabi {
+    background-image: url("train1.avif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.h1 {
+    color: rgb(176, 94, 61);
+    margin-top: 5%;
+    margin-left: 25%;
+    font-style: italic;
+}
+
+.label1,
+.label2,
+.label3,
+.label4 {
+    color: rgb(245, 175, 84);
+}
+
+:placeholder-shown {
+    size: 40;
+}
+
+.layout {
+    border: 4px solid rgb(244, 241, 241);
+    text-align: left;
+    width: 7cm;
+    height: 6cm;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-left: 40%;
+}
+
+.box {
+    margin-top: 5%;
+}
+
+.whole {
+    text-align: center;
+}
+
+.text {
+    margin-left: 5%;
+}
+
+.button {
+    background-color: brown;
+    width: fit-content;
+    margin-left: 47%;
+}
+

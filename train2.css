@@ -1,0 +1,41 @@
+.rabi2 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26kPEheWO4gKuKWT9U_E0VSIaBo_A58XGOg&s);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    color: rgb(232, 42, 17);
+    margin-top: 5%;
+    margin-left: 35%;
+    font-style: italic;
+}
+
+h2 {
+    color: rgb(96, 20, 20);
+}
+
+.lab1,
+.lab2,
+.lab3 {
+    color: rgb(178, 104, 40);
+}
+
+.layout2 {
+    border: solid rgb(81, 87, 81);
+    width: 8cm;
+    height: 8cm;
+    border-radius: 15px;
+    margin-top: 5%;
+    margin-left: 40%;
+}
+
+.text2 {
+    margin-left: 5%;
+}
+.btn1{
+    background-color: brown;
+    width: 4cm;
+    height: 1.5cm;
+    margin-left: 45%;
+}

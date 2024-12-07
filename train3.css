@@ -1,0 +1,63 @@
+h1 {
+    font-style: italic;
+    color: white;
+    margin-top: 5%;
+    margin-left: 43%;
+}
+
+.h2,
+.h3 {
+    color: antiquewhite;
+    margin-left: 4%;
+}
+
+.rabi3 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNBjGKL89yM7FukIjUZQP38SujnWlo3cR2TQ&s);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.layout {
+    border: 6px solid red;
+    background-color: rgba(172, 255, 47, 0.153);
+    width: 9cm;
+    height: 11cm;
+    border-radius: 13px;
+    margin-top: 5%;
+    margin-left: 40%;
+}
+
+.inp1{
+    margin-left: 25%;
+    size: 5cm;
+}
+.inp2{
+    margin-left: 17.7%;
+    size: 5cm;
+}
+.inp3{
+    margin-left: 14%;
+    size: 5cm;
+}
+.inp4{
+    size: 5cm;
+    margin-left: 23.5%;
+}
+.inp5{
+    size: 5cm;
+}
+.inp6 {
+    size: 5cm;
+    margin-left: 15.5%; 
+}
+.bttn{
+    background-color: rgba(58, 76, 21, 0.504);
+    width: 2.5cm;
+    height: 1.5cm;
+    margin-left: 47.5%;
+    font-style: italic;
+    color: antiquewhite;
+}
+.bdr{
+    margin-left: 3%;
+}
